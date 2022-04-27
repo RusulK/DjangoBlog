@@ -58,7 +58,7 @@ SITE_ID = 1
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
 
-CRISPY_REDIRECT_URL_PACK = 'bootstaps4'
+CRISPY_REDIRECT_URL_PACK = 'bootstrap4'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
